@@ -22,6 +22,12 @@ Solo la descripcion del projecto. Github lo utiliza como la descripciondel repos
 https://help.github.com/articles/github-flavored-markdown
 
 
+## Como empezar?
+
+En su localhost o servidor:
+
+    git clone https://github.com/jorgestamatio/machoculto-test.git
+
 ===============
 ## To do
 

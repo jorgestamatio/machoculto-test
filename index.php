@@ -12,7 +12,7 @@
 <body>
 
   <h1>Machoculto</h1>
-  <h2>lugar de palabra y figura</h2>
+  <h2>Lugar de palabra y figura</h2>
 
 
 </body>

@@ -5,7 +5,7 @@
   <!-- Usar UTF-8 como "Character encoding" -->  
   <meta charset="utf-8">
   
-  <title>Machoculto!</title>
+  <title>Machoculto</title>
 
 </head>
 

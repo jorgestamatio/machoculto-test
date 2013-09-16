@@ -17,7 +17,7 @@ date_default_timezone_set('Europe/Berlin');
 <body>
 
   <header>
-     <h1>Machoculto</h1>
+     <h1>MachOculto</h1>
      <h2>Lugar de palabra y figura</h2>
   </header>
   <hr>

@@ -68,9 +68,7 @@ class Session {
 
    /**
     * logout - Gets called when the user wants to be logged out of the
-    * website. It deletes any cookies that were stored on the users
-    * computer as a result of him wanting to be remembered, and also
-    * unsets session variables and demotes his user level to guest.
+    * website. It deletes the session variable username. Redirects to login.php
     */
    function logout(){
       global $database;  //The database connection

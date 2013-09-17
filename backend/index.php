@@ -13,7 +13,7 @@ if(!$session->isLogged){
   
   <title>Machoculto | Backend</title>
 
-  <link href="styles.css" rel="stylesheet" type="text/css">
+  <link href="css/styles.css" rel="stylesheet" type="text/css">
 
 </head>
 

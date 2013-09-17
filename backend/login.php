@@ -13,17 +13,14 @@ if($session->isLogged){
   
   <title>Machoculto | Backend</title>
 
-  <link href="styles.css" rel="stylesheet" type="text/css">
+  <link href="css/styles.css" rel="stylesheet" type="text/css">
 
 </head>
 
 <body>
 
-  <header>
-     <h1>MachOculto Login</h1>
-  </header>
-  <hr>
   <section class='login'>
+    <h2>Login</h2>
     <form action="controller.php" method="POST">
       <input type="text" name="user" placeholder="Username">
       <input type="password" name="pass" placeholder="Password">
